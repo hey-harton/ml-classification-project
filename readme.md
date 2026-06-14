@@ -1,6 +1,6 @@
 # Supervised Learning Final Project
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<username>/<repo-name>/blob/main/01.data-preprocessing.ipynb
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
 ## 📌 Deskripsi
 Proyek ini merupakan tugas akhir mata kuliah **Supervised Learning**.  
