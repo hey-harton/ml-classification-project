@@ -2,7 +2,6 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-latest-orange)
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
 
 ## Deskripsi Proyek
 Proyek ini merupakan Tugas Akhir untuk mata kuliah **Supervised Learning**. Tujuan utama dari proyek ini adalah membangun *end-to-end Machine Learning Pipeline* untuk menyelesaikan permasalahan klasifikasi *multi-class* menggunakan tiga algoritma pemelajaran mesin:
