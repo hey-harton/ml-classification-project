@@ -14,8 +14,6 @@ Eksperimen klasifikasi dilakukan pada tiga dataset publik dari UCI Machine Learn
 - **[Glass Dataset (Glass Identification)](https://archive.ics.uci.edu/dataset/42/glass+identification)**
 - **[Thyroid Dataset (Thyroid Disease Classification)](https://archive.ics.uci.edu/dataset/102/thyroid+disease)**
 
-- **[Thyroid Dataset (Thyroid Disease Classification)](https://archive.ics.uci.edu/dataset/102/thyr
-
 Eksperimen klasifikasi dilakukan pada tiga dataset publik yang memiliki karakteristik dan tantangan berbeda (seperti *imbalanced data*):
 - **Ecoli Dataset** (Protein Localization)
 - **Glass Dataset** (Glass Identification)
