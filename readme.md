@@ -40,7 +40,7 @@ ml-classification-project/
 └── README.md                # Dokumentasi proyek
 ```
 
-## 🚀 Alur Kerja (Pipeline)
+## Alur Kerja (Pipeline)
 
 1. **Data Processing (`01`)**: Melakukan pembersihan data (*handling missing values* & duplikat), pemisahan *train-test split* (80:20), dan transformasi label (Label Encoding).
 2. **Feature Engineering (`02`)**: Melakukan standarisasi fitur menggunakan `StandardScaler` dan mengatasi ketidakseimbangan kelas (*imbalanced data*) menggunakan pendekatan *Hybrid Resampling* (`SMOTETomek` untuk Ecoli & Glass, `SMOTEENN` untuk Thyroid).
@@ -48,7 +48,7 @@ ml-classification-project/
 4. **Model Evaluation (`04`)**: Menguji model pada *test set* menggunakan metrik performa (*Accuracy, Precision, Recall, F1-Score* dengan konfigurasi *weighted average*).
 5. **Analysis & Conclusion (`05`)**: Memvisualisasikan hasil perbandingan akurasi antarmodel dan membuat *Confusion Matrix* untuk mengevaluasi model terbaik (MVP) di masing-masing dataset.
 
-## ⚙️ Instalasi & Cara Penggunaan
+## Instalasi & Cara Penggunaan
 
 Untuk menjalankan proyek ini di mesin lokal, silakan ikuti langkah-langkah berikut:
 
